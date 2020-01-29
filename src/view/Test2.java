@@ -11,7 +11,7 @@ package view;
  */
 public class Test2 {
     public static void main(String[] args) {
-        System.out.println("Long ๆ");
+        System.out.println("Long ๆ ");
         
     }
 }
